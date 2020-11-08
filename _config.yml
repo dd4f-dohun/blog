@@ -1,22 +1,22 @@
 # Site settings
-title: "gjuniioor"
+title: "권도훈의 기술블로그"
 bye_message: "Thx!"
 baseurl: 
 url: "https://dd4f-dohun.github.io/"
 disqus: 
 
 # Header settings
-nick: "gjuniioor"
+nick: "dd4f-dohun"
 mail:
     domain: "protonmail"
     ext: "ch"
 source_code:
     server: "github.com"
-    nick: "gjuniioor"
+    nick: "dd4f-dohun"
 blog:
     server: "wordpress.com"
-    nick: "gjuniioor"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
+    nick: "dd4f-dohun"
+fingerprint_key: "방지원👆"
 
 # Build settings
 markdown: kramdown
