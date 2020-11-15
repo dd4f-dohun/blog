@@ -1,8 +1,8 @@
 # Site settings
 title: "권도훈의 기술블로그"
-bye_message: "Thx!"
+bye_message: "감사합니다"
 baseurl: 
-url: "https://dd4f-dohun.github.io/"
+url: "https://dd4f-dohun.github.io"
 disqus: 
 
 # Header settings
